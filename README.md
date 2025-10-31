@@ -204,7 +204,6 @@ The program validates results by comparing Strassen output against standard mult
 
 - Requires matrix dimensions to be powers of 2 (padding can be added as future work)
 - Optimized for double-precision floating-point only
-- Linux-specific timing functions
 
 ## Future Enhancements
 
@@ -217,6 +216,8 @@ The program validates results by comparing Strassen output against standard mult
 ## Author
 
 Haben Hadush
+Department of Information Technology
+Uppsala University
 
 ## License
 
